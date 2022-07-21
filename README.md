@@ -5,6 +5,8 @@ Script + flask web + postgrs for testproject
 
 Для начала в консоли пропишите команду git clone https://github.com/javlking/testproject.git
 
+Затем cd testproject/
+
 Потом нужно установить необходимые библиотеки: pip install -r requirements.txt
 
 Заходим в папку с проектом: cd project/
@@ -16,7 +18,7 @@ export FLASK_APP=app.py (Linux)
 flask run и переходим по ссылке
 
 
-Также нужно включить сам скрипт: cd functions/
+Также нужно запустить сам скрипт он находится внутри папки functions: cd functions/
 
 Файл main.py является основным и его нужно запустить чтобы скрипт работал
 
