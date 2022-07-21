@@ -1,6 +1,8 @@
 # testproject
 Script + flask web + postgrs for testproject
 
+Ссылка на документ Google Sheets https://docs.google.com/spreadsheets/d/1zswu1uvw8mX3fWxcBVgukX5gSrY5BHFKbWgTjaQdPK0/edit?usp=sharing
+
 Для начала в консоли пропишите команду git clone https://github.com/javlking/testproject.git
 
 Потом нужно установить необходимые библиотеки: pip install -r requirements.txt
