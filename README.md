@@ -1,5 +1,6 @@
 # testproject
-Script + flask web for testproject
+Script + flask web + postgrs for testproject
+
 Для начала в консоли пропишите команду git clone https://github.com/javlking/testproject.git
 
 Потом нужно установить необходимые библиотеки: pip install -r requirements.txt
@@ -19,7 +20,7 @@ flask run и переходим по ссылке
 
 Файл utils.py хранит в себе функции
 
-Файл database.py подключение и работа с БД
+Файл database.py подключение и работа с БД (postgresql)
 
 Файл handlers.py подключение к ТГ боту (https://t.me/kanalserv) - на этот канал приходит сообщение о просрочке
 
