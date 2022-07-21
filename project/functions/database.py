@@ -46,3 +46,5 @@ class Data:
     def update_or_create_data(self, id, *args):
         self.sql.execute('UPDATE kanal_stat SET order_number=%s, price_usd=%s, ship_date=%s, price_rub=%s WHERE id=%s', args[0]+(id,))
         self.connection.commit()
+
+
