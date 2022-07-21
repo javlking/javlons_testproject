@@ -1,11 +1,11 @@
-# testproject
+# javlons_testproject
 Script + flask web + postgrs for testproject
 
 Ссылка на документ Google Sheets https://docs.google.com/spreadsheets/d/1zswu1uvw8mX3fWxcBVgukX5gSrY5BHFKbWgTjaQdPK0/edit?usp=sharing
 
 Для начала в консоли пропишите команду git clone https://github.com/javlking/testproject.git
 
-Затем cd testproject/
+Затем cd javlons_testproject/
 
 Потом нужно установить необходимые библиотеки: pip install -r requirements.txt
 
@@ -18,9 +18,9 @@ export FLASK_APP=app.py (Linux)
 flask run и переходим по ссылке
 
 
-Также нужно запустить сам скрипт он находится внутри папки functions: cd functions/
+# Также нужно запустить сам скрипт он находится внутри папки functions: cd functions/
 
-Файл main.py является основным и его нужно запустить чтобы скрипт работал
+# Файл main.py является основным и его нужно запустить чтобы скрипт работал
 
 Файл utils.py хранит в себе функции
 
